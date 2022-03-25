@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pratikthorat8
+- 👀 I’m interested in Web Development and Mobile Application Development
+- 🌱 I’m currently learning Front-End Development and Flutter
+- 💞️ I’m available for collaboration.
+- 📫 you can reach me at pratikwebworks@gmail.com
