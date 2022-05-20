@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratikthorat8
-- 📱  Currentlty working remotely as a Flutter Developer
+- 📱  Currentlty working remote as a Flutter Developer
 - 👀 I’m interested in Web Development and Mobile Application Development
 - 💻 I primarily use JavaScript, Java, Python and Flutter for my projects. 
 - 🌱 I’m currently learning Front-End Development and Flutter
