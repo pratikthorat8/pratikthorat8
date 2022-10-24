@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratikthorat8
-- 📱  Currentlty working remote as a Flutter Developer
-- 👀 I’m interested in Web Development and Mobile Application Development
-- 💻 I primarily use JavaScript for my projects. 
+- 📱  Currentlty a graduate student at Northeastern University
+- 👀 I’m interested in Fullstack Development
+- 💻 I primarily use JavaScript and Java for my projects. 
 - 🌱 I’m currently learning Front-End Development and Flutter
-- 💞️ I’m available for collaboration.
+- 💞️ I’m available for collaboration and open source contributions
 - 📫 you can reach me at pratikwebworks@gmail.com
