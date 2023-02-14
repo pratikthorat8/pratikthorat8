@@ -4,4 +4,4 @@
 - 💻 I primarily use JavaScript and Java for my projects. 
 - 🌱 I’m currently learning Front-End Development and Flutter
 - 💞️ I’m available for collaboration and open source contributions
-- 📫 you can reach me at pratikwebworks@gmail.com
+- 📫 you can reach me at thorat.p@northeastern.com
